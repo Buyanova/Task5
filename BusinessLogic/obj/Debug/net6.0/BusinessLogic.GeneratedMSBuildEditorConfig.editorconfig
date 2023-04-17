@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BusinessLogic
-build_property.ProjectDir = E:\Практика\Учебная практика\3 курс\5_Документирование API\BackendApi\BusinessLogic\
+build_property.ProjectDir = E:\Практика\Учебная практика\3 курс\6_Добавление процесса непрерывной интеграции в репозиторий\BackendApi\BusinessLogic\
